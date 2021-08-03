@@ -21,6 +21,7 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/xzhih/one-key-hidpi/mast
 - Smart card has been recogonized as USB devices- no clue how to use it
 - need to swapout the wireless card with compatible one..
 - need some fix up for HiDpi scalling.
+- no idea about fingureprint reader,LTE modem...
  # Donate Me!!!<br/>
 Consider Donating this will tremendously helpful for me
 https://paypal.me/SanjayRavindran?locale.x=en_GB<br/>
