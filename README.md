@@ -16,6 +16,11 @@ Used https://github.com/xzhih/one-key-hidpi script to enable HiDpi scalling
 ```
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/xzhih/one-key-hidpi/master/hidpi.sh)"
 ```
+## What doesn't work
+- Obviously SD card reader
+- Smart card has been recogonized as USB devices- no clue how to use it
+- need to swapout the wireless card with compatible one..
+- need some fix up for HiDpi scalling.
  # Donate Me!!!<br/>
 Consider Donating this will tremendously helpful for me
 https://paypal.me/SanjayRavindran?locale.x=en_GB<br/>
