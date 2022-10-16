@@ -22,9 +22,6 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/xzhih/one-key-hidpi/mast
 - need to swapout the wireless card with compatible one..
 - need some fix up for HiDpi scalling.
 - no idea about fingureprint reader,LTE modem...
- # Donate Me!!!<br/>
-Consider Donating this will tremendously helpful for me
-https://paypal.me/SanjayRavindran?locale.x=en_GB<br/>
 
 ### Credits:
 
@@ -36,7 +33,3 @@ Thanks for [RehabMan](https://github.com/RehabMan "RehabMan") for USBInjectAll.k
 Thanks for [headkaze](https://github.com/headkaze "headkaze") for [Hackintool](https://github.com/headkaze/Hackintool "Hackintool").<br/>
 Thanks for [CorpNewt](https://github.com/corpnewt "CorpNewt") for his tools.<br/>
 Thanks for [xzhih](https://github.com/xzhih/one-key-hidpi "xzhih") for HiDpi scaling<br/>
-
-
-
-
